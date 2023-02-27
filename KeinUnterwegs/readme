@@ -1,2 +1,3 @@
-We apologize for not having the whole activity complete, but, we had some troubles with the Iterator pattern implementation, we'll 
-have it done approximately at today's night, we are so sorry for this inconvenient 
+The new proyect has been uploaded, this example it's a simple multithreading mergesort using the "composite" desing pattern;
+in order to make it easier to understand we haven't implemented a sorting algorithm, we used the built-in "Collections.sort()" function;
+Note: this example ONLY shows an example of how to implement the COMPOSITE desing pattern, it doesn't include any kind of reference to ITERATOR.
